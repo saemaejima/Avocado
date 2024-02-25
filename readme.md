@@ -42,7 +42,7 @@ TensorFlowというライブラリを使用している．<br>
 
 
 ## 操作説明・デモ動画
-[デモ動画はこちら](https://www.youtube.com/watch?v=_FAA15ARmas)
+なし<br>
 <!-- 開発したプロダクトの操作説明について入力してください。また、操作説明デモ動画があれば、埋め込みやリンクを記載してください -->
 
 
@@ -59,7 +59,7 @@ TensorFlowは任意の部位の座標を出すライブラリである．​<br>
 
 ## 使用技術
 TensorFlow<br>
-AndroidStudio
+AndroidStudio<br>
 MoveNet
 
 <!-- 使用技術を入力してください -->
